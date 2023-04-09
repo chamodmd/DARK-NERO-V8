@@ -34,5 +34,5 @@
 
 
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARK-NERO-V8/"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Railway" width="170px"></a>
+<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fchamodmd%2FNotiyamd%2F"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Railway" width="170px"></a>
 </p>
